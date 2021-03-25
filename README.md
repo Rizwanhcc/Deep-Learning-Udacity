@@ -25,7 +25,7 @@ Build a recurrent neural network on TensorFlow to process text. Use it to genera
 ## Generative Adversarial Networks
 Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
 
-### [PROJECT - Generate Faces]()
+#### [PROJECT - Generate Faces]()
 Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
 
 ## Deploying a Sentiment Analysis Model
