@@ -4,7 +4,7 @@ This repository contains all the portfolio projects completed during the Udacity
 ## Neural Networks
 Learn neural networks basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 
-#### PROJECT- Predicting Bike-Sharing Patterns
+#### [PROJECT- Predicting Bike-Sharing Patterns](https://github.com/Rizwanhcc/Deep-Learning-Udacity/tree/main/project-bikesharing)
 Build and train neural networks from scratch to predict the number of bikeshare users on a given day.
 
 
@@ -18,14 +18,14 @@ Design and train a convolutional neural network to analyze images of dogs and co
 ## Recurrent Neural Networks
 Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
 
-#### PROJECT Generate TV scripts
+#### [PROJECT Generate TV scripts](https://github.com/Rizwanhcc/Deep-Learning-Udacity/tree/main/Generate-TV-Scripts)
 Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts.
 
 
 ## Generative Adversarial Networks
 Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
 
-### PROJECT - Generate Faces
+### [PROJECT - Generate Faces]()
 Build a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Try training them on a set of celebrity faces, and see what new faces the computer comes out with!
 
 ## Deploying a Sentiment Analysis Model
